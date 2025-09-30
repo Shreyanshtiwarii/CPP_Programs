@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-//WAP to print Hello
+//WAP to print Hello world
 int main()
 {
     cout<<"hello world"<<endl;
