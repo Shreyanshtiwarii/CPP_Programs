@@ -1,4 +1,4 @@
-# CPP_Programs
+# CPP Programs
 <hr>
 Practice programs of CPP
 <br>
@@ -15,3 +15,16 @@ Author : Shreyansh Tiwari
 4. WAP to swap two numbers without using a temporary variable.
 <br>
 5. WAP to add digits of a five digit number.
+<br>
+<b>IF-ELSE AND NESTING</b>
+<br>
+6. WAP to program to find whether the entered year is leap or not.
+<br>
+7. WAP to find whether the given  character is alphabet or not.
+<br>
+8. WAP to check whether a character is vowel or consonant using logical operators.
+<br>
+9. WAP to find greater of two numbers.
+<br>
+10. WAP to find greatest among three numbers using nested if-else.
+<br>
