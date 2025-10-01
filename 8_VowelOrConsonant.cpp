@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-//WAP to check whether a character is vowel or consonant using logical operators
+//WAP to check whether a character is vowel or consonant using logical operator
 int main()
 {
     char ch;
