@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+//WAP to generate a table of any number entered by user (using addition operation)
 int main()
 {
     int n,add=0;
