@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-//WAP to swap two numbers without using a temporary variablee
+//WAP to swap two numbers without using a temporary variable.
 int main()
 {
     int a,b;
