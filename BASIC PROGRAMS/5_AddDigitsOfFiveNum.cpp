@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-//WAP to add digits of a five digit number
+//WAP to add digits of a five digit number.
 int main()
 {
     int a,sum=0,rem;
