@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-//WAP to add three numbers entered by user
+//WAP to add three numbers entered by user.
 int main()
 {
     float a,b,c;
