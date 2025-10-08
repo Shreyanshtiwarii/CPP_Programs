@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-//WAP to find greater of two numbers
+//WAP to find greater of two numbers.
 int main()
 {
     int a,b;
