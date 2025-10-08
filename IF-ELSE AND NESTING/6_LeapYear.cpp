@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-//WAP to program to find whether the entered year is leap or not
+//WAP to program to find whether the entered year is leap or not.
 int main()
 {
     int year;
