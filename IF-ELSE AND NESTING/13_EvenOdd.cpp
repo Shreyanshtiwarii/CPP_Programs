@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-//WAP to check whether the entered number is even or odd.
+//WAP to check the entered number is even or odd.
 int main()
 {
     int num;
