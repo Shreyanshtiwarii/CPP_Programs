@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-//WAP to find greatest among three numbers using nested if-else
+//WAP to find greatest among three numbers using nested if-else.
 int main()
 {
     int a,b,c;
