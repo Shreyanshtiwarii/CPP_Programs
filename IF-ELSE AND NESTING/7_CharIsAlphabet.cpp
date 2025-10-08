@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-//WAP to find whether the given  character is alphabet or not
+//WAP to find whether the given  character is alphabet or not.
 int main()
 {
     char ch;
