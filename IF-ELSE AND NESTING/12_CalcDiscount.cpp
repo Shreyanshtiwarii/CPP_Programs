@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-//WAP to calculate discount based on quantity (10% for more than 10 items and 15% for more than 20 items)
+//WAP to calculate discount based on quantity (10% for more than 10 items and 15% for more than 20 items).
 int main()
 {
     int quantity,discount=0,price,totalBill;
