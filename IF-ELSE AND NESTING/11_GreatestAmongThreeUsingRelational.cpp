@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-// WAP to find greatest among three numbers using relational operators
+// WAP to find greatest among three numbers using relational operators.
 int main()
 {
     int a,b,c;
