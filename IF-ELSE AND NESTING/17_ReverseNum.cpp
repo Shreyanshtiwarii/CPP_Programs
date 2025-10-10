@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-//WAP to find reverse of entered number
+//WAP to find reverse of entered number.
 int main()
 {
     int n,rev=0,rem;
