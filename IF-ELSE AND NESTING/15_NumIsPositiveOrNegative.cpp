@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-//WAP to find whether the given number is positive, negative or zero
+//WAP to find whether the given number is positive, negative or zero.
 int main()
 {
     int num;
