@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-//WAP to find whether the entered date is correct or not
+//WAP to find whether the entered date is correct or not.
 int main()
 {
     int d,m,y;
