@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-// WAP to generate Mark-sheet
+// WAP to generate Mark-sheet.
 // getline(cin, name); for string with spaces
 int main()
 {
